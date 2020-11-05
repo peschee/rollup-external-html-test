@@ -1,5 +1,5 @@
 # rollup-external-html-test
-Simple test case for importing an URL in rollup + external + @web/rollup-plugin-html
+Simple test case for importing an URL in rollup + @web/rollup-plugin-html
 
 `npm run build`
 
