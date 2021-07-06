@@ -1,6 +1,12 @@
 # rollup-external-js-module-test
 Simple test case for importing an exernal JS module from `//` in rollup + @web/rollup-plugin-html
 
+```html
+<script type="module" src="//path/module.js"></script>
+```
+
+and
+
 `npm run build`
 
 gives
