@@ -1,5 +1,11 @@
 # rollup-external-asset-link-test
-Simple test case for importing an asset using `//` in rollup + @web/rollup-plugin-html
+Simple test case for importing an asset using `//` in rollup + @web/rollup-plugin-html:
+
+```html
+<link rel="icon" type="image/png" sizes="32x32" href="//microservice1/file.png" />
+```
+
++ 
 
 `npm run build`
 
