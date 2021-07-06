@@ -5,7 +5,7 @@ Simple test case for importing an asset using `//` in rollup + @web/rollup-plugi
 <link rel="icon" type="image/png" sizes="32x32" href="//microservice1/file.png" />
 ```
 
-+ 
+and
 
 `npm run build`
 
